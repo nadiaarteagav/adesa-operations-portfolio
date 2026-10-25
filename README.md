@@ -1,10 +1,10 @@
-# ADESA OS — Internal Operations Portal
+# Internal Operations Portal — Construction Company
 
 Professional Experience | Business Process Improvement & Portal Development
 
 ## Overview
 
-Contributed to the development of an internal operations portal for ADESA Constructora, focused on centralizing company resources, standardizing business processes, and improving access to operational information.
+Designed and developed an internal operations portal for a construction company, focused on centralizing company resources, standardizing business processes, and improving access to operational information.
 
 The portal brings together key workplace functions, including document management, employee directory, organizational structure, and digital request workflows.
 
@@ -12,7 +12,7 @@ The portal brings together key workplace functions, including document managemen
 
 The main dashboard provides a centralized workspace for accessing the portal's core modules.
 
-![ADESA OS Portal Overview](images/portal-overview.png)
+![Internal Operations Portal Overview](images/portal-overview.png)
 
 ## Key Features
 
@@ -38,9 +38,9 @@ A structured request form designed to support digital submission of employee req
 
 - Standardized documentation across 10 key business processes.
 - Organized and centralized more than 100 documents, forms, and operational resources.
-- Helped structure process documentation to improve accessibility and consistency.
+- Structured process documentation to improve accessibility and consistency.
 - Identified opportunities to digitize manual workflows and improve operational efficiency.
-- Contributed to the development of an internal portal to organize operational information.
+- Designed and developed an internal portal to organize operational information and support digital workflows.
 
 ## Technologies
 
